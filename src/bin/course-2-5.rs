@@ -96,7 +96,7 @@ fn main() {
     // Arrays: common functions
     // ---------------------------------------
     println!(
-        "he array is occupying {} Bytes",
+        "the array is occupying {} Bytes",
         std::mem::size_of_val(&number_array_1)
     );
 
